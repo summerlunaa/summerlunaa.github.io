@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+Computer Science 혼자 공부하고 기록하는 블로그.
